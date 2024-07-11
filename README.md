@@ -1,0 +1,1 @@
+Este documento especifica os casos de teste para o módulo de Cadastro de Investidor do sistema. O objetivo é garantir que todas as funcionalidades relacionadas ao cadastro de investidores funcionem conforme especificado nos requisitos do sistema.
